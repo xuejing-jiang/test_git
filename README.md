@@ -1,4 +1,4 @@
-Welcome to the test_git wiki!
+Welcome to the test_git project!
 
 This is a place where we try with github features and see if it can be useful for our work as version controlling and collaborative coding tool
 
