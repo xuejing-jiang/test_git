@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+xjiang edits. somthign akljg
+nick edit online
+
+
+
+xjiang edit again 
+=======
+xjiang edits. somthign akljg
+>>>>>>> parent of 03c2b71 (Update test pad.txt)
