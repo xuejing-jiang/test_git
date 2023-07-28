@@ -13,6 +13,48 @@ The method of recording and controlling changes to software code is known as ver
 # 3. What Is Git?
 Git is a free and open source distributed version control system that can handle projects of any size, from little to very large, with speed and efficiency.
 
+# What are GitHub’s Features?
+## 1. Easy Project Management
+GitHub is a place where project managers and developers come together to coordinate, track, and update their work so that projects are transparent and stay on schedule.
+
+## 2. Increased Safety With Packages
+Packages can be published privately, within the team, or publicly to the open-source community. The packages can be used or reused by downloading them from GitHub.
+
+## 3. Effective Team Management
+GitHub helps all the team members stay on the same page and organized. Moderation tools like Issue and Pull Request Locking help the team to focus on the code.
+
+## 4. Improved Code Writing
+Pull requests help the organizations to review, develop, and propose new code. Team members can discuss any implementations and proposals through these before changing the source code.
+
+## 5. Increased Code Safety
+GitHub uses dedicated tools to identify and analyze vulnerabilities to the code that other tools tend to miss. Development teams everywhere work together to secure the software supply chain, from start to finish.
+
+## 6. Easy Code Hosting
+All the code and documentation are in one place. There are millions of repositories on GitHub, and each repository has its own tools to help you host and release code.
+
+# So How Do You Get Started With GitHub?
+It’s easy to get things going with GitHub. For starters, click onto the GitHub site and create an account. Then, consider installing Git on your system, especially if you plan on using your local computer. Then, go to your terminal and make yourself known to Git by setting up your user name in every repository. Use this command:
+
+git config --global user.name "<your_name_here>"
+
+Make sure the “your name here” parameter is your own name. Pick any name you’d like.
+
+Next, share your email address with Git. It should be the same address you entered when you joined GitHub.
+
+git config --global user.email "<your_email@email.com>"
+
+You’re now ready to use Git!
+
+# How Do You Use Git and GitHub?
+Here’s a very broad overview of the steps you need to use both Git and GitHub. You can find more details regarding the specific commands and syntax here on opensource.com.
+
+Create your GitHub account, which you should have already done, thanks to the previous section!
+Create a repository or “repo” for short. This is where you store your code.
+Build a file.
+Make a commit. Whenever you create a file or change it, you create a Git commit to store the new version.
+Connect your repo with your computer system.
+
+
 # 4. How much does GitHub cost?
 With GitHub Free for personal accounts, you may collaborate with an infinite number of people on an unlimited number of public repositories with a full feature set and an unlimited number of private repositories with a limited feature set. The Team plan on Github starts at $44 per user per year.
 
