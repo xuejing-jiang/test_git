@@ -2,7 +2,7 @@ Welcome to the test_git wiki!
 
 This is a place where we try with github features and see if it can be useful for our work as version controlling and collaborative coding tool
 
-FAQs found online
+Check [here](https://www.simplilearn.com/tutorials/git-tutorial/what-is-github#:~:text=GitHub%20is%20a%20platform%20for,%2C%20commits%2C%20and%20pull%20requests.) to see *What is GitHub And How To Use It?*
 
 # 1. What Is GitHub?
 GitHub is a website and cloud-based service that assists developers in storing and managing code, as well as tracking and controlling changes to their code.
